@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 
 '''
+MARK AS "TO BE IMPROVED"
+Code sample does not show what current color is
+
 Watershed segmentation
 =========
 

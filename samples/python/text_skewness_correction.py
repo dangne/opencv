@@ -1,4 +1,7 @@
 '''
+MARK AS "TO BE IMPROVED"
+text_skewness_correction.py: error: the following arguments are required: -i/--image
+
 Text skewness correction
 This tutorial demonstrates how to correct the skewness in a text.
 The program takes as input a skewed source image and shows non skewed text.

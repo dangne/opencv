@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 '''
+MARK AS BROKEN
+
 face detection using haar cascades
 
 USAGE:

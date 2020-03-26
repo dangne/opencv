@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+'''
+MARK AS "NO DOCUMENTATION"
+'''
 
 # Python 2/3 compatibility
 from __future__ import print_function

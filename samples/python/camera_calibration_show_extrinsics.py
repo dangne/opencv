@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+'''
+MARK AS "NO DOCUMENTATION"
+MARK AS "BROKEN"
+NotImplementedError: It is not currently possible to manually set the aspect on 3D axes
+'''
+
 # Python 2/3 compatibility
 from __future__ import print_function
 

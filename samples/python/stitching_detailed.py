@@ -1,4 +1,7 @@
 """
+MARK AS "TO BE IMPROVED"
+stitching.py: error: the following arguments are required: img
+
 Stitching sample (advanced)
 ===========================
 
